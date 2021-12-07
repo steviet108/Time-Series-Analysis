@@ -2,7 +2,7 @@
 
 
 
-![fintech_image](fintech_image_time_series.png)
+![fintech_image](Resources/fintech_image_time_series.png)
 
 
 This is a jupyter notebook that includes data preperation, anlysis and visualizations for time series data for the company MercadoLibre. I have used Google search Traffic to look into the relationships between Google Search Trends and Quarterly Earnings Reports. Also included is a Prophet Forecasting Model for the Google search trends and for the future earnings for MercadoLibre. 
